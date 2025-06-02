@@ -10,3 +10,5 @@ created_at: "2025-01-02"
 So today I listed the elements I might need for this project and drew a brief image of how things work together.
 
 and... I forget the notebook. image will be updated tomorrow.
+
+**Total time spent: 1h**
