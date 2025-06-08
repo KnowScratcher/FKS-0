@@ -34,3 +34,9 @@ I went to a local electronic store to see if I can find anything that might be o
 <img src="https://raw.githubusercontent.com/KnowScratcher/QuakeCord/refs/heads/main/img/20250605bom.png" height="400" alt="BOM">
 
 **Total time spent: 1h**
+
+# June 7th: Design PCB
+So I draw the schematic and design a PCB today, and it's going quite smoothly.
+<img src="https://raw.githubusercontent.com/KnowScratcher/QuakeCord/refs/heads/main/img/20250607pcb.png" height="400" alt="BOM">
+
+**Total time spent: 2h**
